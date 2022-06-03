@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T09:21:01.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="Sr6fkJWUTvp3u0cuhClx" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T09:21:37.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="TVw5AXVepReMplV4YhRe" version="18.2.1" type="github">
   <diagram id="5mmHvfYfOejazv3EZza-" name="Page-1">
     <mxGraphModel dx="870" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="ZOq5uMk8Qgf5PJLFW93F-6" value="Consultation des questionnaires" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOq5uMk8Qgf5PJLFW93F-8" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZOq5uMk8Qgf5PJLFW93F-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Opinion&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="80" width="60" height="30" as="geometry" />
