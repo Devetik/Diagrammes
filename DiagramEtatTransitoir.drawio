@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T08:59:05.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Jr5t50olc8iUV2Oa_iZz" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T09:03:35.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Lf13im6wMDvu3vHnqM1D" version="19.0.0" type="github">
   <diagram id="mm0Va0jNasvGqplJFVPJ" name="Page-1">
     <mxGraphModel dx="1337" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="Ww-bNy5FXlPVnw8g5APJ-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="797" y="365" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww-bNy5FXlPVnw8g5APJ-25" value="Diagramme d&#39;états-transitons Login" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="910" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
