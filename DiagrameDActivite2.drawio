@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T11:26:13.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="fceD4Yr5r2MRBXYfGaaB" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T03:36:25.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="ZOlFt8GWMczZ-fhQ_MkU" version="19.0.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2674" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="-306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MWQz74-mzpOBfi5y9opP-41" value="Opinion" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="1004.5" y="128" width="280" height="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="MWQz74-mzpOBfi5y9opP-82" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=default;" parent="MWQz74-mzpOBfi5y9opP-41" vertex="1">
-          <mxGeometry x="140.5" y="1122" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2" value="Eleve" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="128" width="280" height="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="Enseignant" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="128" width="280" height="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="Direction" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="128" width="280" height="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="MWQz74-mzpOBfi5y9opP-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="1250" as="targetPoint" />
-            <mxPoint x="1160" y="1200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="420" y="1720" width="30" height="30" as="geometry" />
         </mxCell>
