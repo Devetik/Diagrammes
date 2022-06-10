@@ -1,1 +1,176 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T17:27:05.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" version="19.0.3" etag="koaEqrpT3jpI6D20eOET" type="github"><diagram id="MVh3Rx72_5xmh219oFLw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-10T18:31:23.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="H2NFMLarCbPeTILPc8-K" version="19.0.3" type="github">
+  <diagram id="MVh3Rx72_5xmh219oFLw" name="Page-1">
+    <mxGraphModel dx="3055" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-1" value="Eleve" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="50" width="20" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-4" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-23" value="Récupération des questions" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="250" as="sourcePoint" />
+            <mxPoint x="50" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="250" />
+              <mxPoint x="80" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-29" value="Récupération des questionnaires" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="140" as="sourcePoint" />
+            <mxPoint x="50" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="140" />
+              <mxPoint x="80" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-33" value="Enregistrement des réponses" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="400" as="sourcePoint" />
+            <mxPoint x="50" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="400" />
+              <mxPoint x="80" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-5" value="" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="210" as="sourcePoint" />
+            <mxPoint x="820" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-6" value="" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="250" as="sourcePoint" />
+            <mxPoint x="820" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="280" as="sourcePoint" />
+            <mxPoint x="670" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="280" />
+              <mxPoint x="700" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-17" value="GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-20" value="Affichage des questionnaires" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17" target="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="220" as="sourcePoint" />
+            <mxPoint x="344.5" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-21" value="Sélection du questionnaire" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-1" target="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry x="-0.0501" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.999999999999773" y="240" as="sourcePoint" />
+            <mxPoint x="159.5" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="80" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-27" value="Affichage des questions" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-1" target="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="340" as="sourcePoint" />
+            <mxPoint x="190" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="350" />
+              <mxPoint x="130" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-28" value="Remplir réponses" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-1" target="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="380" as="sourcePoint" />
+            <mxPoint x="190" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="390" />
+              <mxPoint x="60" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-22" value="Sélection du questionnaire" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17" target="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="260" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-24" value="Affichage des questions" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17" target="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="720" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-31" value="Sauvegarder" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-1" target="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="440" as="sourcePoint" />
+            <mxPoint x="260" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-32" value="Enregistrement des réponses" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17" target="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="440" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-34" value="Affichage des questionnaires" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-1" target="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="240" as="sourcePoint" />
+            <mxPoint x="180" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-35" value="Déconnexion de l&#39;élève" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="500" as="sourcePoint" />
+            <mxPoint x="520" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-36" value="Login page" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-1" target="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="520" as="sourcePoint" />
+            <mxPoint x="210" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-37" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=20;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="120" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-38" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="165" y="125" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
