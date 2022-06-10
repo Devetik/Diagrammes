@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T11:11:23.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="59kPrH3onoT-nG2gCr2l" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T11:12:48.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="8jZq70LmczcQmzj5satL" version="19.0.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1337" dy="-284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -242,13 +242,11 @@
             <mxPoint x="490" y="1815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pIqOZxi5pflwb6cRRVeg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;strokeWidth=1;" parent="1" source="pIqOZxi5pflwb6cRRVeg-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="565.5" y="1802" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="mw1B3DeKMrc1X_QG4Pau-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="pIqOZxi5pflwb6cRRVeg-18" target="mw1B3DeKMrc1X_QG4Pau-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIqOZxi5pflwb6cRRVeg-18" value="Réinitialisation du mot de passe" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="690.5" y="1772" width="120" height="60" as="geometry" />
+        <mxCell id="pIqOZxi5pflwb6cRRVeg-18" value="Réinitialisation du mot de passe" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1816" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIqOZxi5pflwb6cRRVeg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;strokeWidth=1;" parent="1" source="pIqOZxi5pflwb6cRRVeg-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -268,6 +266,14 @@
         </mxCell>
         <mxCell id="pIqOZxi5pflwb6cRRVeg-23" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="475" y="1662" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mw1B3DeKMrc1X_QG4Pau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="mw1B3DeKMrc1X_QG4Pau-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mw1B3DeKMrc1X_QG4Pau-7" value="Entrer nouveau mot de passe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
