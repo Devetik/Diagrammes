@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T18:50:26.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="xwxhdOO_-anJ3Mj0kCRz" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T19:02:08.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="_BZsVp9EImL_ghyUWkyB" version="19.0.3" type="github">
   <diagram id="MVh3Rx72_5xmh219oFLw" name="Page-1">
-    <mxGraphModel dx="2234" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="-60" y="120" width="920" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-1" value="Eleve" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="50" width="20" height="1170" as="geometry" />
+          <mxGeometry x="-20" y="50" width="20" height="620" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-4" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="770" y="50" width="100" height="1110" as="geometry" />
+          <mxGeometry x="770" y="50" width="100" height="620" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-23" value="Récupération des questions" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="uzrrQvRwDsT_Gd7-vhzl-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,30 +43,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-5" value="" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="190" as="sourcePoint" />
-            <mxPoint x="1150" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-6" value="" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="440" as="sourcePoint" />
-            <mxPoint x="1210" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="260" as="sourcePoint" />
-            <mxPoint x="1000" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1030" y="260" />
-              <mxPoint x="1030" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-17" value="GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="140" y="50" width="100" height="940" as="geometry" />
+          <mxGeometry x="140" y="50" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-58" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="uzrrQvRwDsT_Gd7-vhzl-17">
+          <mxGeometry x="45" y="100" width="10" height="510" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-21" value="Sélection du questionnaire" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" target="uzrrQvRwDsT_Gd7-vhzl-17">
           <mxGeometry x="-0.0501" width="50" height="50" relative="1" as="geometry">
@@ -98,12 +79,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-22" value="Sélection du questionnaire" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17">
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-22" value="Sélection du questionnaire" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17" target="uzrrQvRwDsT_Gd7-vhzl-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220.0999999999999" y="300" as="sourcePoint" />
             <mxPoint x="819.5" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="300" />
+              <mxPoint x="260" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,22 +114,22 @@
           <mxGeometry x="50" y="125" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-40" value="Question" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="100" height="1110" as="geometry" />
+          <mxGeometry x="450" y="50" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-62" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="uzrrQvRwDsT_Gd7-vhzl-40">
+          <mxGeometry x="45" y="310" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-44" value="Questionnaire" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="313" y="50" width="100" height="1110" as="geometry" />
+          <mxGeometry x="313" y="50" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-60" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="uzrrQvRwDsT_Gd7-vhzl-44">
+          <mxGeometry x="45" y="160" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-45" value="ReponseEleve" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="610" y="50" width="100" height="1110" as="geometry" />
+          <mxGeometry x="610" y="50" width="100" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-20" value="Affichage des questionnaires" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="uzrrQvRwDsT_Gd7-vhzl-45" target="uzrrQvRwDsT_Gd7-vhzl-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-382.0000000000001" y="380" as="sourcePoint" />
-            <mxPoint x="217.39999999999998" y="380" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-342.1" y="380" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="uzrrQvRwDsT_Gd7-vhzl-45">
+          <mxGeometry x="45" y="440" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-46" value="Récupération des questionnaires" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-44" target="uzrrQvRwDsT_Gd7-vhzl-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -187,12 +168,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-50" value="Enregistrement des réponses" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-17" target="uzrrQvRwDsT_Gd7-vhzl-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.6155" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="510" as="sourcePoint" />
             <mxPoint x="360" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="490" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uzrrQvRwDsT_Gd7-vhzl-51" value="" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-45" target="uzrrQvRwDsT_Gd7-vhzl-4">
@@ -228,6 +210,17 @@
             <mxPoint x="180" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzrrQvRwDsT_Gd7-vhzl-59" value="Sélection du questionnaire" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1" source="uzrrQvRwDsT_Gd7-vhzl-44" target="uzrrQvRwDsT_Gd7-vhzl-4">
+          <mxGeometry x="-0.0501" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369.9999999999999" y="310" as="sourcePoint" />
+            <mxPoint x="569.4" y="310" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="459.9" y="310" />
+              <mxPoint x="740" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
