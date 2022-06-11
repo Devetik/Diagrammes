@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T14:32:32.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="FFRVyjm_tWmxdgA4jB67" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T14:35:46.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="ddZpCZFlVxiVAxw8d-4r" version="19.0.3" type="github">
   <diagram id="vo8UH_zVqahfNAsJbKlJ" name="Page-1">
-    <mxGraphModel dx="1637" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-49" value="Création formulaire vierge Eleve" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;dashed=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="ZFrfi6K9khdsfjG5ujtt-3">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-49" value="Création formulaire vierge Eleve" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;dashed=1;startArrow=classic;startFill=1;endFill=0;labelBackgroundColor=none;" edge="1" parent="ZFrfi6K9khdsfjG5ujtt-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-289.9995652173915" y="380" as="sourcePoint" />
             <mxPoint x="219.87" y="380" as="targetPoint" />
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-46" value="Ajouter Eleve" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="ZFrfi6K9khdsfjG5ujtt-3">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-46" value="Ajouter Eleve" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;labelBackgroundColor=none;" edge="1" parent="ZFrfi6K9khdsfjG5ujtt-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-290" y="340" as="sourcePoint" />
             <mxPoint x="219.5" y="340" as="targetPoint" />
@@ -102,13 +102,13 @@
             <mxPoint x="170" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-15" value="Ajouter Enseignant" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-15" value="Ajouter Enseignant" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="290" as="sourcePoint" />
             <mxPoint x="229.50000000000045" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-16" value="Enseignant" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-16" value="Enseignant" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="259" width="120" height="701" as="geometry" />
         </mxCell>
         <mxCell id="ZFrfi6K9khdsfjG5ujtt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;gradientColor=#ffffff;fillColor=default;" vertex="1" parent="ZFrfi6K9khdsfjG5ujtt-16">
@@ -118,9 +118,9 @@
           <mxGeometry y="103" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZFrfi6K9khdsfjG5ujtt-48" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;gradientColor=#ffffff;fillColor=default;" vertex="1" parent="ZFrfi6K9khdsfjG5ujtt-16">
-          <mxGeometry x="55" y="160" width="10" height="40" as="geometry" />
+          <mxGeometry x="55" y="150" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-17" value="Ajouter Enseignant" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-17" value="Ajouter Enseignant" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="310" as="sourcePoint" />
             <mxPoint x="739.5" y="310" as="targetPoint" />
@@ -227,7 +227,7 @@
             <mxPoint x="229.50000000000045" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-45" value="Ajouter Eleve" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;" edge="1" parent="1">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-45" value="Ajouter Eleve" style="endArrow=classic;html=1;rounded=0;verticalAlign=bottom;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50.00000000000023" y="400" as="sourcePoint" />
             <mxPoint x="229.50000000000045" y="400" as="targetPoint" />
@@ -245,7 +245,7 @@
         <mxCell id="ZFrfi6K9khdsfjG5ujtt-53" value="&lt;b&gt;Eleve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="360" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZFrfi6K9khdsfjG5ujtt-5" value="Création formulaire vierge Enseignant" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;dashed=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="ZFrfi6K9khdsfjG5ujtt-5" value="Création formulaire vierge Enseignant" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;dashed=1;startArrow=classic;startFill=1;endFill=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="229.63043478260852" y="340" as="sourcePoint" />
             <mxPoint x="739.5" y="340" as="targetPoint" />
