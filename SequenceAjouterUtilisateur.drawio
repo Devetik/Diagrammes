@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T14:49:42.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Nwlh6IIdQKJ6TUx6gg5a" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T14:49:56.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="-khYrDMUUE6M4E-0l_N9" version="19.0.3" type="github">
   <diagram id="vo8UH_zVqahfNAsJbKlJ" name="Page-1">
     <mxGraphModel dx="2313" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,10 +237,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZFrfi6K9khdsfjG5ujtt-52" value="&lt;b&gt;[Ajout d&#39;un Enseignant]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="250" width="150" height="20" as="geometry" />
+          <mxGeometry x="50" y="250" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZFrfi6K9khdsfjG5ujtt-53" value="&lt;b&gt;[Ajout d&#39;un Eleve]&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="350" width="120" height="20" as="geometry" />
+          <mxGeometry x="50" y="350" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZFrfi6K9khdsfjG5ujtt-5" value="Création formulaire vierge Enseignant" style="endArrow=none;html=1;rounded=0;verticalAlign=bottom;dashed=1;startArrow=classic;startFill=1;endFill=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
