@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T18:21:15.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="-7N2eU_mQpu34H3RhvLy" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T18:21:55.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="8pJ_X9jAJqzMOv3u4bz6" version="20.0.1" type="github">
   <diagram id="dV5EGTMWUshMltJBMqBj" name="Page-1">
     <mxGraphModel dx="870" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,14 @@
         </mxCell>
         <mxCell id="BXmMsaARzzcV1XuaGJFT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BXmMsaARzzcV1XuaGJFT-17" target="BXmMsaARzzcV1XuaGJFT-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BXmMsaARzzcV1XuaGJFT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="BXmMsaARzzcV1XuaGJFT-17" target="BXmMsaARzzcV1XuaGJFT-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="585" />
+              <mxPoint x="190" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BXmMsaARzzcV1XuaGJFT-17" value="Teste D&#39;acceptation" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="525" width="120" height="120" as="geometry" />
